@@ -1,0 +1,630 @@
+# depslib dependency file v1.0
+1592604519 source:/media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Shaders_CylinderAndLightning/cylinder.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+	<stdio.h>
+	<math.h>
+	"cylinder.h"
+
+1592171148 /media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Shaders_CylinderAndLightning/cylinder.h
+	"vertex.h"
+
+1592604413 /media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Shaders_CylinderAndLightning/vertex.h
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+
+1592604528 source:/media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Shaders_CylinderAndLightning/disc.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<math.h>
+	"disc.h"
+
+1592170572 /media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Shaders_CylinderAndLightning/disc.h
+	<math.h>
+	"vertex.h"
+
+1592603965 source:/media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Shaders_CylinderAndLightning/readBMP.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	"readBMP.h"
+
+1592603585 /media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Shaders_CylinderAndLightning/readBMP.h
+
+1592605013 source:/media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Shaders_CylinderAndLightning/shader.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdio.h>
+	<string.h>
+
+1599519493 source:/media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Shaders_CylinderAndLightning/main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"shader.h"
+	"cylinder.h"
+	"disc.h"
+	"light.h"
+	"material.h"
+	"readBMP.h"
+
+1592169877 /media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Shaders_CylinderAndLightning/shader.h
+
+1592605673 /media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Shaders_CylinderAndLightning/light.h
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+
+1592605846 /media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Shaders_CylinderAndLightning/material.h
+	<cglm/cglm.h>
+
+1592604519 source:/media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Lecture_20/Shaders_CylinderAndLightning/cylinder.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+	<stdio.h>
+	<math.h>
+	"cylinder.h"
+
+1592171148 /media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Lecture_20/Shaders_CylinderAndLightning/cylinder.h
+	"vertex.h"
+
+1592604413 /media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Lecture_20/Shaders_CylinderAndLightning/vertex.h
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+
+1592604528 source:/media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Lecture_20/Shaders_CylinderAndLightning/disc.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<math.h>
+	"disc.h"
+
+1592170572 /media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Lecture_20/Shaders_CylinderAndLightning/disc.h
+	<math.h>
+	"vertex.h"
+
+1599519493 source:/media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Lecture_20/Shaders_CylinderAndLightning/main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"shader.h"
+	"cylinder.h"
+	"disc.h"
+	"light.h"
+	"material.h"
+	"readBMP.h"
+
+1592169877 /media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Lecture_20/Shaders_CylinderAndLightning/shader.h
+
+1592605673 /media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Lecture_20/Shaders_CylinderAndLightning/light.h
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+
+1592605846 /media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Lecture_20/Shaders_CylinderAndLightning/material.h
+	<cglm/cglm.h>
+
+1592603585 /media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Lecture_20/Shaders_CylinderAndLightning/readBMP.h
+
+1592603965 source:/media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Lecture_20/Shaders_CylinderAndLightning/readBMP.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	"readBMP.h"
+
+1592605013 source:/media/casile/Data/MyRepDirs/Teaching/Computer_Graphics/SourceCode/Lecture_20/Shaders_CylinderAndLightning/shader.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdio.h>
+	<string.h>
+
+1642176686 source:/home/carulli/Scrivania/Shaders_CylinderAndLightning/cylinder.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+	<stdio.h>
+	<math.h>
+	"cylinder.h"
+
+1642174926 /home/carulli/Scrivania/Shaders_CylinderAndLightning/cylinder.h
+	"vertex.h"
+
+1592604413 /home/carulli/Scrivania/Shaders_CylinderAndLightning/vertex.h
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+
+1642182361 source:/home/carulli/Scrivania/Shaders_CylinderAndLightning/disc.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<math.h>
+	"disc.h"
+
+1642234235 /home/carulli/Scrivania/Shaders_CylinderAndLightning/disc.h
+	<math.h>
+	"vertex.h"
+
+1642436727 source:/home/carulli/Scrivania/Shaders_CylinderAndLightning/main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"shader.h"
+	"cylinder.h"
+	"disc.h"
+	"light.h"
+	"material.h"
+	"readBMP.h"
+
+1592169877 /home/carulli/Scrivania/Shaders_CylinderAndLightning/shader.h
+
+1592605673 /home/carulli/Scrivania/Shaders_CylinderAndLightning/light.h
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+
+1592605846 /home/carulli/Scrivania/Shaders_CylinderAndLightning/material.h
+	<cglm/cglm.h>
+
+1592603585 /home/carulli/Scrivania/Shaders_CylinderAndLightning/readBMP.h
+
+1592603965 source:/home/carulli/Scrivania/Shaders_CylinderAndLightning/readBMP.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	"readBMP.h"
+
+1592605013 source:/home/carulli/Scrivania/Shaders_CylinderAndLightning/shader.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdio.h>
+	<string.h>
+
+1642176686 source:/home/carulli/Scaricati/Shaders_CylinderAndLightning/cylinder.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+	<stdio.h>
+	<math.h>
+	"cylinder.h"
+
+1642174926 /home/carulli/Scaricati/Shaders_CylinderAndLightning/cylinder.h
+	"vertex.h"
+
+1592604413 /home/carulli/Scaricati/Shaders_CylinderAndLightning/vertex.h
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+
+1642182361 source:/home/carulli/Scaricati/Shaders_CylinderAndLightning/disc.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<math.h>
+	"disc.h"
+
+1642234235 /home/carulli/Scaricati/Shaders_CylinderAndLightning/disc.h
+	<math.h>
+	"vertex.h"
+
+1642346342 source:/home/carulli/Scaricati/Shaders_CylinderAndLightning/main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"shader.h"
+	"cylinder.h"
+	"disc.h"
+	"light.h"
+	"material.h"
+	"readBMP.h"
+
+1592169877 /home/carulli/Scaricati/Shaders_CylinderAndLightning/shader.h
+
+1592605673 /home/carulli/Scaricati/Shaders_CylinderAndLightning/light.h
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+
+1592605846 /home/carulli/Scaricati/Shaders_CylinderAndLightning/material.h
+	<cglm/cglm.h>
+
+1592603585 /home/carulli/Scaricati/Shaders_CylinderAndLightning/readBMP.h
+
+1592603965 source:/home/carulli/Scaricati/Shaders_CylinderAndLightning/readBMP.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	"readBMP.h"
+
+1592605013 source:/home/carulli/Scaricati/Shaders_CylinderAndLightning/shader.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdio.h>
+	<string.h>
+
+1642536142 source:/home/carulli/Scrivania/Shaders_CylinderAndLightning (copia)/cylinder.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+	<stdio.h>
+	<math.h>
+	"cylinder.h"
+
+1592171148 /home/carulli/Scrivania/Shaders_CylinderAndLightning (copia)/cylinder.h
+	"vertex.h"
+
+1592604413 /home/carulli/Scrivania/Shaders_CylinderAndLightning (copia)/vertex.h
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+
+1642182361 source:/home/carulli/Scrivania/Shaders_CylinderAndLightning (copia)/disc.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<math.h>
+	"disc.h"
+
+1642234235 /home/carulli/Scrivania/Shaders_CylinderAndLightning (copia)/disc.h
+	<math.h>
+	"vertex.h"
+
+1642536119 source:/home/carulli/Scrivania/Shaders_CylinderAndLightning (copia)/main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"shader.h"
+	"cylinder.h"
+	"disc.h"
+	"torus.h"
+	"light.h"
+	"material.h"
+	"readBMP.h"
+
+1592169877 /home/carulli/Scrivania/Shaders_CylinderAndLightning (copia)/shader.h
+
+1592605673 /home/carulli/Scrivania/Shaders_CylinderAndLightning (copia)/light.h
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+
+1592605846 /home/carulli/Scrivania/Shaders_CylinderAndLightning (copia)/material.h
+	<cglm/cglm.h>
+
+1592603585 /home/carulli/Scrivania/Shaders_CylinderAndLightning (copia)/readBMP.h
+
+1592603965 source:/home/carulli/Scrivania/Shaders_CylinderAndLightning (copia)/readBMP.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	"readBMP.h"
+
+1592605013 source:/home/carulli/Scrivania/Shaders_CylinderAndLightning (copia)/shader.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdio.h>
+	<string.h>
+
+1642534301 source:/home/carulli/Scrivania/Shaders_CylinderAndLightning (copia)/torus.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<math.h>
+	<cglm/types-struct.h>
+	"torus.h"
+
+1642533902 /home/carulli/Scrivania/Shaders_CylinderAndLightning (copia)/torus.h
+	"vertex.h"
+
+1642700036 source:/home/carulli/Scrivania/ATTIVO/cylinder.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+	<stdio.h>
+	<math.h>
+	"cylinder.h"
+
+1592171148 /home/carulli/Scrivania/ATTIVO/cylinder.h
+	"vertex.h"
+
+1592604413 /home/carulli/Scrivania/ATTIVO/vertex.h
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+
+1642182361 source:/home/carulli/Scrivania/ATTIVO/disc.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<math.h>
+	"disc.h"
+
+1642234235 /home/carulli/Scrivania/ATTIVO/disc.h
+	<math.h>
+	"vertex.h"
+
+1644682627 source:/home/carulli/Scrivania/ATTIVO/main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"shader.h"
+	"cylinder.h"
+	"Square.h"
+	"torus.h"
+	"light.h"
+	"material.h"
+	"readBMP.h"
+
+1592169877 /home/carulli/Scrivania/ATTIVO/shader.h
+
+1642700216 /home/carulli/Scrivania/ATTIVO/torus.h
+	"vertex.h"
+
+1592605673 /home/carulli/Scrivania/ATTIVO/light.h
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+
+1592605846 /home/carulli/Scrivania/ATTIVO/material.h
+	<cglm/cglm.h>
+
+1592603585 /home/carulli/Scrivania/ATTIVO/readBMP.h
+
+1592603965 source:/home/carulli/Scrivania/ATTIVO/readBMP.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	"readBMP.h"
+
+1592605013 source:/home/carulli/Scrivania/ATTIVO/shader.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdio.h>
+	<string.h>
+
+1642534301 source:/home/carulli/Scrivania/ATTIVO/torus.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<math.h>
+	<cglm/types-struct.h>
+	"torus.h"
+
+1642536142 source:/home/carulli/Scrivania/ATTIVO (copia)/cylinder.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+	<stdio.h>
+	<math.h>
+	"cylinder.h"
+
+1592171148 /home/carulli/Scrivania/ATTIVO (copia)/cylinder.h
+	"vertex.h"
+
+1592604413 /home/carulli/Scrivania/ATTIVO (copia)/vertex.h
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+
+1642182361 source:/home/carulli/Scrivania/ATTIVO (copia)/disc.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<math.h>
+	"disc.h"
+
+1642234235 /home/carulli/Scrivania/ATTIVO (copia)/disc.h
+	<math.h>
+	"vertex.h"
+
+1592603965 source:/home/carulli/Scrivania/ATTIVO (copia)/readBMP.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	"readBMP.h"
+
+1592603585 /home/carulli/Scrivania/ATTIVO (copia)/readBMP.h
+
+1592605013 source:/home/carulli/Scrivania/ATTIVO (copia)/shader.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdio.h>
+	<string.h>
+
+1642534301 source:/home/carulli/Scrivania/ATTIVO (copia)/torus.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<math.h>
+	<cglm/types-struct.h>
+	"torus.h"
+
+1642629273 /home/carulli/Scrivania/ATTIVO (copia)/torus.h
+	"vertex.h"
+
+1642670188 source:/home/carulli/Scrivania/ATTIVO (copia)/main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"shader.h"
+	"cylinder.h"
+	"disc.h"
+	"torus.h"
+	"light.h"
+	"material.h"
+	"readBMP.h"
+
+1592169877 /home/carulli/Scrivania/ATTIVO (copia)/shader.h
+
+1592605673 /home/carulli/Scrivania/ATTIVO (copia)/light.h
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+
+1592605846 /home/carulli/Scrivania/ATTIVO (copia)/material.h
+	<cglm/cglm.h>
+
+1644678208 source:/home/carulli/Scrivania/ATTIVO/Square.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<math.h>
+	"Square.h"
+
+1642234235 /home/carulli/Scrivania/ATTIVO/Square.h
+	<math.h>
+	"vertex.h"
+
+1642700036 source:/home/carulli/Scrivania/EmilianoCarulliProgetto/cylinder.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+	<stdio.h>
+	<math.h>
+	"cylinder.h"
+
+1592171148 /home/carulli/Scrivania/EmilianoCarulliProgetto/cylinder.h
+	"vertex.h"
+
+1592604413 /home/carulli/Scrivania/EmilianoCarulliProgetto/vertex.h
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+
+1644683346 source:/home/carulli/Scrivania/EmilianoCarulliProgetto/main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"shader.h"
+	"cylinder.h"
+	"Square.h"
+	"torus.h"
+	"light.h"
+	"material.h"
+	"readBMP.h"
+
+1592169877 /home/carulli/Scrivania/EmilianoCarulliProgetto/shader.h
+
+1642234235 /home/carulli/Scrivania/EmilianoCarulliProgetto/Square.h
+	<math.h>
+	"vertex.h"
+
+1642700216 /home/carulli/Scrivania/EmilianoCarulliProgetto/torus.h
+	"vertex.h"
+
+1592605673 /home/carulli/Scrivania/EmilianoCarulliProgetto/light.h
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+
+1592605846 /home/carulli/Scrivania/EmilianoCarulliProgetto/material.h
+	<cglm/cglm.h>
+
+1592603585 /home/carulli/Scrivania/EmilianoCarulliProgetto/readBMP.h
+
+1592603965 source:/home/carulli/Scrivania/EmilianoCarulliProgetto/readBMP.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	"readBMP.h"
+
+1592605013 source:/home/carulli/Scrivania/EmilianoCarulliProgetto/shader.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdio.h>
+	<string.h>
+
+1642534301 source:/home/carulli/Scrivania/EmilianoCarulliProgetto/torus.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<math.h>
+	<cglm/types-struct.h>
+	"torus.h"
+
+1642700036 source:/home/carulli/Scrivania/Grafica/EmilianoCarulliProgetto/cylinder.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+	<stdio.h>
+	<math.h>
+	"cylinder.h"
+
+1592171148 /home/carulli/Scrivania/Grafica/EmilianoCarulliProgetto/cylinder.h
+	"vertex.h"
+
+1592604413 /home/carulli/Scrivania/Grafica/EmilianoCarulliProgetto/vertex.h
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+
+1644683346 source:/home/carulli/Scrivania/Grafica/EmilianoCarulliProgetto/main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"shader.h"
+	"cylinder.h"
+	"Square.h"
+	"torus.h"
+	"light.h"
+	"material.h"
+	"readBMP.h"
+
+1592169877 /home/carulli/Scrivania/Grafica/EmilianoCarulliProgetto/shader.h
+
+1642234235 /home/carulli/Scrivania/Grafica/EmilianoCarulliProgetto/Square.h
+	<math.h>
+	"vertex.h"
+
+1642700216 /home/carulli/Scrivania/Grafica/EmilianoCarulliProgetto/torus.h
+	"vertex.h"
+
+1592605673 /home/carulli/Scrivania/Grafica/EmilianoCarulliProgetto/light.h
+	<cglm/cglm.h>
+	<cglm/types-struct.h>
+
+1592605846 /home/carulli/Scrivania/Grafica/EmilianoCarulliProgetto/material.h
+	<cglm/cglm.h>
+
+1592603585 /home/carulli/Scrivania/Grafica/EmilianoCarulliProgetto/readBMP.h
+
+1592603965 source:/home/carulli/Scrivania/Grafica/EmilianoCarulliProgetto/readBMP.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	"readBMP.h"
+
+1592605013 source:/home/carulli/Scrivania/Grafica/EmilianoCarulliProgetto/shader.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdio.h>
+	<string.h>
+
+1642534301 source:/home/carulli/Scrivania/Grafica/EmilianoCarulliProgetto/torus.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<math.h>
+	<cglm/types-struct.h>
+	"torus.h"
+
